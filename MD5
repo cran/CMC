@@ -1,0 +1,9 @@
+b0f414ac90ec38750c8d5b61ae34d95c *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+ab0bb25d6149316418038b29fdce2421 *R/alpha.cronbach.r
+3b53365e794596253fa5aeeeb0fdcc9d *R/alpha.curve.r
+27bcd0f5065b20b763cec596579fc371 *data/cain.RData
+e11dd069048a7a360d5f16509933c84c *man/CMC-package.Rd
+e29c0c3c6d7c5230bfe8e7f7f178154b *man/alpha.cronbach.Rd
+586e2a74d853b1b414c8bca373146350 *man/alpha.curve.Rd
+cf6b0872419e44e9dbe6df02cded20f2 *man/cain.Rd
